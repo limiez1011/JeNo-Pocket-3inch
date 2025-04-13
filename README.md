@@ -377,6 +377,7 @@ If something isn't 100% to your liking on the JeNo Pocket, feel free to check ou
 
 **TPU**
 
+* [Backpack pour ViFly Finder](https://www.printables.com/model/1262438-back-pack-finder-mini-pour-jeno-pocket-25) (par [Tooma](https://www.printables.com/@tomtom_fpv_2283950))
 
 ## Changelog
 
