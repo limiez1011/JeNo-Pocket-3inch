@@ -374,6 +374,7 @@ If something isn't 100% to your liking on the JeNo Pocket, feel free to check ou
 
 * [JeNo Pocket Custom](https://www.printables.com/model/1222804-jeno-pocket-custom) by NOX: Modified cutout patterns in the top and bottom plates, plus a slot for a lipo strap.
 * [JeNo 25 (Pocket Custom)](https://www.printables.com/model/1236609-jeno-25-pocket-custom) by Cam.Traveler (Marc): Supports 19mm or 14mm cameras, low-profile option, variations from light to bando, and soft-mounted camera plates—all well-documented!
+* [O3 Lens mod](https://www.youtube.com/watch?v=PAJpX8I_TqM) by Bard : get great FOV with the DJI O4 Lite
 
 **TPU**
 
