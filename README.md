@@ -2,7 +2,7 @@
 > [!NOTE]
 > Current version : **1.0.0** (read [changelog](#changelog) for details)
 > [!TIP]
->Version **2.0** available on its own page : [JeNo Pocket V2](https://github.com/WE-are-FPV/JeNo-Pocket-V2)
+> Version **2.0** available on its own page : [JeNo Pocket V2](https://github.com/WE-are-FPV/JeNo-Pocket-V2)
 
 ![JeNo Pocket - In the hand](./images/JeNoPocket_Hand_Feathered.png)
 
