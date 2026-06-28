@@ -7,8 +7,8 @@
 
 ![JeNo Pocket - In the hand](./images/JeNoPocket_Hand_Feathered.png)
 
-# JeNo Pocket 2.5"
-***2.5" drone FPV frame compatible with Air Unit O4 Lite (or any Nano camera), designed for Freestyle, Freeride and Cinematic.***
+# JeNo Pocket 3"
+***3" drone FPV frame compatible with Air Unit O4 Lite (or any Nano camera), designed for Freestyle, Freeride and Cinematic.***
 
 > [!NOTE]
 > Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) community, the JeNo is already flown by hundreds of pilots and is now being sold by [Drone FPV Racer](https://www.drone-fpv-racer.com/recherche?controller=search&s=JeNo+5.1+frame&aff=64&id_campaign=13) (affiliate link). The French version of the project is available on [Printables](https://www.printables.com/model/1175339-jeno-pocket-drone-frame). Note that a [3-3.5" version](https://github.com/WE-are-FPV/JeNo-3-3.5), a [5.1-6" version](https://github.com/WE-are-FPV/JeNo-5.1) and a [7-8" version](https://github.com/WE-are-FPV/JeNo-7) of the JeNo exist.
@@ -48,7 +48,7 @@
 - [x] Obviously **Open Source**
 
 ## Presentation
-**2.5" quads** are **amazing** : playful, lightweight, quiet. You can fly them almost anywhere without risking disturbance or injury. Plus, (almost) everything is cheaper: motors, lipos, props…
+**3" quads** are **amazing** : playful, lightweight, quiet. You can fly them almost anywhere without risking disturbance or injury. Plus, (almost) everything is cheaper: motors, lipos, props…
 
 The DJI Air Unit O3 and its camera were not suitable for this format, which is why we stopped at the [JeNo 3"](https://github.com/WE-are-FPV/JeNo-3-3.5). But the release of the **Air Unit O4 Lite** changes everything !
 
@@ -92,7 +92,7 @@ The JeNo is also available in [3" and 3.5" versions](https://github.com/WE-are-F
 |||
 | :--- | :--- |
 | **Geometry** | **Wide-X** | 
-| **Props size** | 2.5" | 
+| **Props size** | 3" | 
 | **Weight** | **24 g**, with screws | 
 | **Body height** | 20 mm | 
 | **Bottom plate** | 3 mm | 
@@ -161,8 +161,6 @@ In any case, we strongly recommend **Dogcom 2S and 3S 560 mAh** lipos, as they h
 
 Depending on the lipos, during a freestyle flight outdoors in cold weather (~5°C), flight times can range from **2 minutes** (BetaFPV 2S 450 mAh) to **5 minutes** (Dogcom 3S 560 mAh)! You can even hope to reach **7 minutes** with a smooth flight using these same lipos.
 
-### Props
-We have always flown the **Avan Rush 2.5"** and are completely satisfied with them.
 
 ### FC, ESCs and RX
 Here, you’ll have plenty of choices, as the range is very diverse. The main recommendation is to go for an **FC AiO** with ESCs that can deliver **20A**, to be on the safe side, although theoretically, 15A should be sufficient.
